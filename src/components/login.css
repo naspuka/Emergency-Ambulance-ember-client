@@ -1,0 +1,13 @@
+.form-css{
+    padding: 10px;
+    
+}
+
+.card{
+    margin: auto;
+    width: 70vh;
+    height: 70vh;
+    align-items: center;
+    justify-content: center;
+}
+
